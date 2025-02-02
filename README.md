@@ -15,9 +15,10 @@
 </p>
 <h2>GitHub Status</h2>
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-<img loading="lazy" style="width: 49%; height: auto; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoJonior&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" style="width: 49%; height: auto; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=JoJonior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
+
+<div align="center">
+<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoJonior&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=JoJonior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
  
 
 <h2>Links de Contato</h2>
