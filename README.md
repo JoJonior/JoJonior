@@ -16,8 +16,8 @@
 ## GitHub Status
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-<img loading="lazy" style="width: 47%; height: auto; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoJonior&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" style="width: 52%; height: auto; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=JoJonior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
+<img loading="lazy" style="width: 49%; height: auto; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoJonior&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" style="width: 49%; height: auto; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=JoJonior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
  
 
 ## Links de Contato
