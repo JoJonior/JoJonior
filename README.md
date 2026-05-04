@@ -13,6 +13,17 @@
       <img src="https://skillicons.dev/icons?i=dotnet,azure" />
 </p>
 
+<h2> Certificações </h2>
+
+- Oracle Cloud Infrastructure Foundations Associate
+
+<p align="center">
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=BAE97962E3EE2BF12DB3B93B2DADE67C1D1B71E1E631ADB53FA90D2C9AA98F59">
+    <img src="https://github.com/user-attachments/assets/e2086183-ef41-40a6-86c6-bfd567db6072" width="180"/>
+  </a>
+</p>
+
+
 <div align="center"> <a href="https://www.youtube.com/@DevJonior" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/joniorbarata/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="mailto:dev.junior.barata@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/dev-júnior-barata/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div> 
 
 
