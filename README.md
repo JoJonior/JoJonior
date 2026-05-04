@@ -19,7 +19,8 @@
 
 <p align="center">
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=BAE97962E3EE2BF12DB3B93B2DADE67C1D1B71E1E631ADB53FA90D2C9AA98F59">
-    <img src="https://github.com/user-attachments/assets/e2086183-ef41-40a6-86c6-bfd567db6072" width="180"/>
+      <img src="https://github.com/user-attachments/assets/2b215633-65c9-44f7-a3b8-2221a680618b" width="480" />
+
   </a>
 </p>
 
