@@ -3,8 +3,14 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=535&lines=Ol%C3%A1+%F0%9F%91%8B;Meu+nome+%C3%A9+J%C3%BAnior+Barata;Bem-vindo!" alt="Typing SVG" /></a>
 
-<h3>Sou estudante de Engenharia da Computação na UNIFESSPA  e pesquisador de Inteligência Artificial com foco em Backend, Engenharia de Dados e Visão Computacional.</h3>
+
+
 </div>
+
+- 🎓 Graduando em **Engenharia da Computação** na UNIFESSPA.
+- 💻 Desenvolvedor **Python** com foco em arquiteturas **Backend** e APIs de alta performance.
+- 🧠 Bolsista de Iniciação Científica em **Inteligência Artificial** e **Visão Computacional**.
+- ☁️ Entusiasta e estudante de **Cloud Computing** (OCI Certified).
 
 <h2>Tecnologias e Ferramentas que uso:</h2> 
 
