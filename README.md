@@ -26,12 +26,17 @@
 <h2> Certificações </h2>
 
 - **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**
+- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
 
 <p align="center">
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=BAE97962E3EE2BF12DB3B93B2DADE67C1D1B71E1E631ADB53FA90D2C9AA98F59">
       <img src="https://github.com/user-attachments/assets/2b215633-65c9-44f7-a3b8-2221a680618b" width="480" />
   </a>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E77BFA0EF72C324069DF27BD57F6D630FE0BA76B7C3751603CCDCD0FF225A638"> 
+      <img src="https://github.com/user-attachments/assets/d0e9698b-264d-4adf-91dc-2b7542e7129e" width="480"/>
+  </a>
 </p>
+
 
 <br />
 
